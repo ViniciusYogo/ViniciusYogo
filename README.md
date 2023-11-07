@@ -6,7 +6,6 @@ Estudante de programação do Senai Cimatec e da Infinity School, estou a procur
 [![Git](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-yogo-8b5a57293/)
 
 ![ViniciusYogo GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusYogo&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusyogo)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Tecnologias que eu uso no meu dia a dia 
