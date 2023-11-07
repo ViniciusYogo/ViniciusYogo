@@ -6,6 +6,7 @@
 
 ![ViniciusYogo GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusYogo&show_icons=true&theme=tokyonight)
 
+
 ### Tecnologias que eu uso no meu dia a dia 
 
 <div style = "display">
@@ -14,7 +15,9 @@
     <img aling="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img aling="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img aling="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-</div></br>
-Estudante de programação do Senai Cimatec e da Infinity School, estou a procura de sempre melhorar meu conhecimento.
+</div><br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusyogo)](https://github.com/anuraghazra/github-readme-stats)
+
+Estudante de programação do Senai Cimatec e da Infinity School, estou a procura de sempre melhorar meu conhecimento.
 
