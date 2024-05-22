@@ -1,6 +1,6 @@
 ### Olá, eu sou Vinicius Yogo 🖐️
 
-Estudante de programação do Senai Cimatec e estou a procura de sempre melhorar meu conhecimento.
+Estudante de programação do Senai Cimatec e estou a procura de sempre melhorar meu conhecimento.<br>
 Concluído: FullStack na InfinitySchool.
 
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devviniciusyogo/)
