@@ -4,7 +4,7 @@ Estudante de programação do Senai Cimatec e estou a procura de sempre melhorar
 Concluído: FullStack na InfinitySchool.
 
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devviniciusyogo/)
-[![Git](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-yogo-8b5a57293/)
+[![Git](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vinicius-yogo-fiuza-lima-358815212)
 
 ![ViniciusYogo GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusYogo&show_icons=true&theme=tokyonight)
 
