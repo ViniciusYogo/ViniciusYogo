@@ -16,8 +16,7 @@ Estudante de programação no Senai Cimatec | FullStack pela InfinitySchool
 </div>  
 
 ### 📊 GitHub Stats  
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=ViniciusYogo&show_icons=true&theme=tokyonight)  
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusYogo&layout=compact&theme=tokyonight)  
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=ViniciusYogo&show_icons=true&theme=tokyonight)  ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusYogo&layout=compact&theme=tokyonight)  
 
 ### 🚀 Projetos  
 - [Gestão Institucional](https://github.com/ViniciusYogo/gestao-instituicao)  
